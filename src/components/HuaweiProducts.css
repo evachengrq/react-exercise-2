@@ -1,0 +1,9 @@
+.huaweiProducts {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .huawei {
+    margin-left: 20px;
+    margin-top: 20px;
+  }

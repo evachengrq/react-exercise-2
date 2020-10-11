@@ -1,0 +1,22 @@
+.product {
+    margin-left: 20px;
+    padding-bottom: 20px;
+    width: 30%;
+}
+
+.product img {
+    width: 90%;
+    margin-bottom: 10px;
+}
+
+.price {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+}
+
+.price button {
+    background-color: blue;
+    color: white;
+    padding: 5px;
+}
